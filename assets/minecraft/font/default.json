@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:Roboto-Regular.ttf",
+            "shift": [0.0, -10.0],
+            "size": 100.0,
+            "oversample": 1.0
+        },
+    ]
+}
