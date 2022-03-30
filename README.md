@@ -1,5 +1,5 @@
-# Faithful Edit by Mickman
-Ever since Vattic stopped developing their Faithful Resource Pack, tons of different versions and textures started flying around. Some looked "Faithful-ish" and others looked nothing like the original. Since 1.13, with every Minecraft update, I've been combining some of my favorite textures into a conglomerate pack, which I see as the most appealing pack compared to others.
+# Mickman's Faithful
+Ever since Vattic stopped developing their Faithful Resource Pack, tons of different versions and textures started flying around. Some looked "Faithful-ish" and others looked nothing like the original. Since 1.13, with every Minecraft update, I've been combining some of my favorite textures, and making some of my own, into a conglomerate pack, which I see as the most appealing one compared to others.
 
 This pack is just my take on Faithful, and what I like to play the game with!
 
